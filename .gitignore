@@ -1,0 +1,5 @@
+*.zip
+VST_SDK/
+.DS_STORE
+tags.lock
+*.swp
